@@ -9,7 +9,6 @@
 - 💬 Ask me about python.
 - 📫 How to reach me: tmdals5587@naver.com
 - ⚡ Fun fact: I'm beginner.
--->
 
 
 
