@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm beginner.
 -->
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdals5587)](https://solved.ac/tmdals5587) 
+
+
+
+![TYDTYD's GitHub stats](https://github-readme-stats.vercel.app/api?username=TYDTYD&show_icons=true&theme=tokyonight)
 
 <!---
 TYDTYD/TYDTYD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
