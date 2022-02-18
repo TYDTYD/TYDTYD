@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-- 🔭 I’m currently working on HNU.
+- 🔭 I’m currently working on INU.
 - 🌱 I’m currently learning C#, C++, Unity.
 - 👯 I’m looking to collaborate on game develope.
 - 🤔 I’m looking for help with game developer.
