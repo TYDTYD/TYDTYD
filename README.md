@@ -5,15 +5,9 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on INU.
-- 🌱 I’m currently learning C#, C++, Unity.
-- 👯 I’m looking to collaborate on game develope.
-- 🤔 I’m looking for help with game developer.
-- 💬 Ask me about python.
-- 📫 How to reach me: tmdals5587@naver.com
-- ⚡ Fun fact: I'm beginner.
-
-
+- I want to be a game developer.
+- I’m currently attending in INU.
+- I’m currently learning C#, C++, Unity.
 
 
 [![Solved.ac
