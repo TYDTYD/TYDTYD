@@ -19,7 +19,8 @@
 ![TYDTYD's GitHub stats](https://github-readme-stats.vercel.app/api?username=TYDTYD&show_icons=true&theme=tokyonight)
 
 ## My Stack
-<img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=#512BD4&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
 
 ## Project
 - Mental Line (2022.07~2022.09)
