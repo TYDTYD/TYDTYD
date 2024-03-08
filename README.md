@@ -19,11 +19,11 @@
 ![TYDTYD's GitHub stats](https://github-readme-stats.vercel.app/api?username=TYDTYD&show_icons=true&theme=tokyonight)
 
 ## My Stack
-<img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=C++&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=#512BD4&logoColor=000000"/></a>
 
 ## Project
-- Mental Line (2022.07~2022.09) by eveni & 게임인재개발산업협회 주관 게임톤
-- Alone Or Together (2022.10~2023.05) by 인천대학교 졸업작품
+- Mental Line (2022.07~2022.09)
+- Alone Or Together (2022.10~2023.05)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer" />
 
