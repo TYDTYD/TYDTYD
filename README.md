@@ -18,6 +18,8 @@
 
 ![TYDTYD's GitHub stats](https://github-readme-stats.vercel.app/api?username=TYDTYD&show_icons=true&theme=tokyonight)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer" />
+
 <!---
 TYDTYD/TYDTYD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
