@@ -24,8 +24,8 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ## Project
-- Mental Line (2022.07~2022.09)
-- Alone Or Together (2022.10~2023.05)
+- Mental Line (2022.07 ~ 2022.09)
+- Alone Or Together (2022.09 ~ 2023.05)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer" />
 
