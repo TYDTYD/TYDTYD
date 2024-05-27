@@ -25,7 +25,7 @@
 
 ## Project
 - [Mental Line (2022.07 ~ 2022.09)](https://github.com/TYDTYD/Mental_Line)
-- [Alone Or Together (2022.09 ~ 2023.12)](https://github.com/TYDTYD/Alone_Or_Together_ver2)
+- [Alone Or Together (2022.09 ~ 2023.12)](https://github.com/TYDTYD/Alone_Or_Together_ver2) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 - [Gun & Dagger (2024.03 ~ )](https://github.com/TYDTYD/Gun_Dagger)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer" />
