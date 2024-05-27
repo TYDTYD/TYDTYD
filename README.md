@@ -24,7 +24,7 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ## Project
-- [Mental Line (2022.07 ~ 2022.09)](https://github.com/TYDTYD/Mental_Line) ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=social&logo=google-play&logoColor=white)
+- [Mental Line (2022.07 ~ 2022.09)](https://github.com/TYDTYD/Mental_Line) ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)
 - [Alone Or Together (2022.09 ~ 2023.12)](https://github.com/TYDTYD/Alone_Or_Together_ver2) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)](https://store.steampowered.com/app/2651070/Alone_Or_Together/?beta=0)
 - [Gun & Dagger (2024.03 ~ )](https://github.com/TYDTYD/Gun_Dagger)
 
