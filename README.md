@@ -7,7 +7,7 @@
 
 - I want to be a game developer.
 - I’m currently attending in INU.
-- I’m currently learning C#, C++, Unity.
+- I’m currently learning C#, C++, Unity, DirectX 11.
 
 
 [![Solved.ac
