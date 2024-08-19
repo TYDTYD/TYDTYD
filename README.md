@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTYDTYD&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=red&height=200&section=header&text=Hi!%20I'm%20Seung%20Min&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!%20I'm%20Seung%20Min&fontSize=70" />
 
 ### Hi there 👋
 
@@ -28,7 +28,7 @@
 - [Alone Or Together (2022.09 ~ 2023.12)](https://github.com/TYDTYD/Alone_Or_Together_ver2) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)](https://store.steampowered.com/app/2651070/Alone_Or_Together/?beta=0)
 - [Gun & Dagger (2024.03 ~ )](https://github.com/TYDTYD/Gun_Dagger)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
 
 <!---
 TYDTYD/TYDTYD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
