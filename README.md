@@ -3,12 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=Hi!%20I'm%20Seung%20Min&fontSize=70" />
 
-### **Hi there** 👋
-
-- I want to be a game developer.
-- I’m currently attending in INU.
-- I’m currently learning C#, C++, Unity, DirectX 11.
-
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdals5587)](https://solved.ac/tmdals5587) 
