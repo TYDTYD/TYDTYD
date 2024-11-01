@@ -5,7 +5,7 @@
 
 <div align=center>
 <h1>
-🐰 Tech Stack
+💻 Tech Stack
 </h1>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white"/>
