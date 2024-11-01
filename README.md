@@ -39,7 +39,7 @@ INU 프로그래밍 경진대회 입상 (동상)
 [Mental Line (2022.07 ~ 2022.09)](https://github.com/TYDTYD/Mental_Line) ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=plastic&logo=google-play&logoColor=white)
 
 <h1>
-  Problme Solving
+  🔒 Problme Solving
 </h1>
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdals5587)](https://solved.ac/tmdals5587)
