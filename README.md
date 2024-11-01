@@ -14,10 +14,10 @@
 
 <h1 align="center">
 My Stack
+</h1>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-</h1>
 
 ## **Education**
 - 삼성 DX부문 하계 대학생 S/W 알고리즘 특강 수료 (2024.07.22 ~ 2024.08.16)
