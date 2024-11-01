@@ -22,6 +22,7 @@ Tech Stack
 <h1 align="center">
   Education
 </h1>
+
 - 삼성 DX부문 하계 대학생 S/W 알고리즘 특강 수료 (2024.07.22 ~ 2024.08.16)
 
 - 한국정보보호산업협회 주관 융합보안 인력양성 교육(클라우드 분야) (2023.11.15. ~ 2023.11.17)
@@ -29,6 +30,7 @@ Tech Stack
 <h1 align="center">
   Awards
 </h1>
+
 - INU 캡스톤 디자인 입상 (장려상)
 
 - INU Code Festival 입상 (동상)
