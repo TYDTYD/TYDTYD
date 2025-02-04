@@ -47,7 +47,7 @@ INU 캡스톤 디자인 입상 (장려상)
 ![TYDTYD's GitHub stats](https://github-readme-stats.vercel.app/api?username=TYDTYD&show_icons=true&theme=tokyonight)
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
 
 <!---
 TYDTYD/TYDTYD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
