@@ -31,6 +31,7 @@ INU 캡스톤 디자인 입상 (장려상)
 <h1>
   🍀 Project
 </h1>
+[Shadow Of Valkyrie (2025.01 ~ 2025.03)](https://github.com/TYDTYD/Final_Project)
 
 [Gun & Dagger (2024.03 ~ 2024.09)](https://github.com/TYDTYD/Gun_Dagger)
 
