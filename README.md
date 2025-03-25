@@ -31,7 +31,7 @@ INU 캡스톤 디자인 입상 (장려상)
 
 [Shadow Of Valkyrie (2025.01 ~ 2025.03)](https://github.com/TYDTYD/Final_Project)
 
-[Gun & Dagger (2024.03 ~ 2024.09)](https://github.com/TYDTYD/Gun_Dagger)
+[Gun & Dagger (2024.07 ~ 2024.09)](https://github.com/TYDTYD/Gun_Dagger)
 
 [Alone Or Together (2022.09 ~ 2023.12)](https://github.com/TYDTYD/Alone_Or_Together_ver2) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)](https://store.steampowered.com/app/2651070/Alone_Or_Together/?beta=0)
 
