@@ -39,7 +39,7 @@ INU 캡스톤 디자인 입상 (장려상)
 
 [Alone Or Together (2022.09 ~ 2023.12)](https://github.com/TYDTYD/Alone_Or_Together_ver2) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)](https://store.steampowered.com/app/2651070/Alone_Or_Together/?beta=0)
 
-[Mental Line (2022.07 ~ 2022.09)](https://github.com/TYDTYD/Mental_Line) ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=plastic&logo=google-play&logoColor=white)
+[Mental Line (2022.07 ~ 2022.09)](https://github.com/TYDTYD/Mental_Line) [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=plastic&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.TamyuelStudio.MentalLine)
 
 <h1>
   🔒 Problem Solving
