@@ -35,7 +35,7 @@ INU 캡스톤 디자인 입상 (장려상)
 
 [Shadow Of Valkyrie (2025.02 ~ 2025.04)](https://github.com/TYDTYD/Final_Project)
 
-[서울시 불법 주정차 데이터 마이닝(2024.09 ~ 2024.12)](https://github.com/TYDTYD/Assignment/tree/main/Data%20Mining%20Project)
+[서울시 불법 주정차 데이터 마이닝(2024.09 ~ 2024.12)](https://github.com/TYDTYD/DataMining)
 
 [Gun & Dagger (2024.07 ~ 2024.09)](https://github.com/TYDTYD/Gun_Dagger)
 
