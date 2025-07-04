@@ -33,6 +33,8 @@ INU 캡스톤 디자인 입상 (장려상)
   🍀 Project
 </h1>
 
+[Alien Alien (2025.06.28 ~ 2025.06.29)](https://github.com/TYDTYD/InhaGameZam)
+
 [Shadow Of Valkyrie (2025.02 ~ 2025.04)](https://github.com/TYDTYD/Final_Project)
 
 [서울시 불법 주정차 데이터 마이닝(2024.09 ~ 2024.12)](https://github.com/TYDTYD/DataMining)
