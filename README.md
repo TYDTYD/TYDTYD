@@ -9,7 +9,10 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 
-
+<h1>
+💼 Career
+</h1>
+웹젠 게임 클라이언트 개발자 (2025.07.14 ~ )
 
 <h1>
 📖 Education
