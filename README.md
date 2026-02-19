@@ -12,7 +12,7 @@
 <h1>
 💼 Career
 </h1>
-웹젠 게임 클라이언트 개발자 (2025.07.14 ~ 
+웹젠 게임 클라이언트 개발자 (2025.07.14 ~ )
 
 <h1>
 📖 Education
@@ -54,7 +54,7 @@ INU 캡스톤 디자인 입상 (장려상)
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdals5587)](https://solved.ac/tmdals5587)
 
-![TYDTYD's GitHub stats](https://github-readme-stats.vercel.app/api?username=TYDTYD&show_icons=true&theme=tokyonight)
+[![Seungmin's GitHub stats](https://github-stats-extended.vercel.app/api?username=TYDTYD)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
