@@ -36,19 +36,19 @@ INU 캡스톤 디자인 입상 (장려상)
   🍀 Project
 </h1>
 
-[Mental Line (2022.07 ~ 2022.09)](https://github.com/TYDTYD/Mental_Line) [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=plastic&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.TamyuelStudio.MentalLine)
+[Mental Line](https://github.com/TYDTYD/Mental_Line) (2022.07 ~ 2022.09)
 
-[Alone Or Together (2022.09 ~ 2023.12)](https://github.com/TYDTYD/Alone_Or_Together_ver2) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)](https://store.steampowered.com/app/2651070/Alone_Or_Together/?beta=0)
+[Alone Or Together](https://github.com/TYDTYD/Alone_Or_Together_ver2) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)](https://store.steampowered.com/app/2651070/Alone_Or_Together/?beta=0) (2022.09 ~ 2023.12)
 
-[Gun & Dagger (2024.07 ~ 2024.09)](https://github.com/TYDTYD/Gun_Dagger)
+[Gun & Dagger](https://github.com/TYDTYD/Gun_Dagger) (2024.07 ~ 2024.09)
 
-[서울시 불법 주정차 데이터 마이닝(2024.09 ~ 2024.12)](https://github.com/TYDTYD/DataMining)
+[서울시 불법 주정차 데이터 마이닝](https://github.com/TYDTYD/DataMining) (2024.09 ~ 2024.12)]
 
-[Shadow Of Valkyrie (2025.02 ~ 2025.04)](https://github.com/TYDTYD/Final_Project)
+[Shadow Of Valkyrie](https://github.com/TYDTYD/Final_Project) (2025.02 ~ 2025.04)
 
-[Alien Alien (2025.06.28 ~ 2025.06.29)](https://github.com/TYDTYD/InhaGameZam)
+[Alien Alien](https://github.com/TYDTYD/InhaGameZam) (2025.06.28 ~ 2025.06.29)
 
-[Moon Rabbit (2026.07.16 ~ 2026.08.14)](https://github.com/TYDTYD/MoonRabbitRush)
+[Moon Rabbit](https://github.com/TYDTYD/MoonRabbitRush) (2026.07.16 ~ 2026.08.14)
 
 <h1>
   🔒 Problem Solving
